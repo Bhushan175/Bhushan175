@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @Bhushan175
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+Hello Devs, Welcome to another devs Profile, Yeah yeah Upcomimg Dev ✌️
+My name is Bhushan Makode and I am looking forward to be a Full Stack Developer in the near future. 😎
+
+I Started from Python as my first language and definetely not the last. I am exploring the stuffs Python is capable of and making a projects in the same.
+
+Some of the Technologies I am aware and had hands on Pratice are: Django framework, Linux Automation,core java, Bash Shell Scripting, HTML, CSS, JavaScript, JQuery, Flask, Data Science, Heroku and many more to be added soon.
+Always Open to learn new languages and Technologies.Feel Free to share your Ideas with me
